@@ -1,0 +1,20 @@
+
+
+1. Python Basic and Advanced Programming
+
+  1. Agile
+  2. DevOps CI/CD Pipeline 
+  3. Cloud (AWS, & AZURE)
+
+2. Recorded Session
+
+3. Quiz on Each Module
+
+4. Case Study Projects
+
+5. Assignments on Each Module 
+
+Duration : 30 Days (22 Sessions between 30 Sessions)
+
+Monday - Friday @6am IST
+
